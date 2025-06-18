@@ -1,0 +1,16 @@
+{
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).",
+  "main": "0-redis_client.js",
+  "scripts": {
+    "dev": "node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^5.5.6"
+  }
+}
